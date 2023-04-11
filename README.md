@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **odilonvaillanti12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-  <p align = "left" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> <a href="https://www.linkedin.com/in/odilon-vaillant-irambona-2b0083177/" target="_blank" rel="noreferrer"></p>
+<h3 align="left"></h3>
+  
 <p align="left">
 </p>
 
