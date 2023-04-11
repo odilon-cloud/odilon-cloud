@@ -6,7 +6,7 @@
 - 📫 How to reach me **odilonvaillanti12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-  [linkedin](https://www.linkedin.com/in/odilon-vaillant-irambona-2b0083177/)
+  <p align = "center">< a href="https://www.linkedin.com/in/odilon-vaillant-irambona-2b0083177/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
 <p align="left">
 </p>
 
