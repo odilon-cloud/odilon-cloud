@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm odilon</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Java and rust**
 
 - 📫 How to reach me **odilonvaillanti12@gmail.com**
 
